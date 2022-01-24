@@ -1,0 +1,17 @@
+/* google font  */
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@300&family=Roboto&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@300&family=Dongle&family=Roboto&display=swap');
+
+header{
+    font-family: 'Roboto', sans-serif;
+}
+
+footer{
+    background-color: rgb(24, 21, 27);
+    height: 200px;
+    color: white;
+}
+main{
+    font-family: 'Comfortaa', cursive;
+}
